@@ -1,1 +1,1 @@
-# OR-Code-Generator-Using-HTML-CSS-and-Javascript
+# QR-Code-Generator-Using-HTML-CSS-and-Javascript
